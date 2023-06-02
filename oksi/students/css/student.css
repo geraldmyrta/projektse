@@ -1,0 +1,58 @@
+<style>
+
+.profile_field{
+position:relative;
+font-size:18px;
+margin:10px ;
+border-radius:5px;
+background:#DFE3EE;
+width:360px;
+padding-left: 10px;
+
+height:30px;
+color:#0083A9;
+}
+
+.button_container{
+position: relative;
+float: right;
+right: 10px;
+top: 10px;
+width: 300px;
+height: 50px;
+background: white;
+}
+
+.buttons {
+position: relative;
+margin-left: 20px;
+top: 2px;
+border-radius:5px;
+font-family: Verdana;
+font-weight:bold;
+font-size: 15px;
+color: white;
+width: 200px;
+height: 30px;
+background: #0083A9;
+}
+
+
+.label_field{
+position:relative;
+color: #0083A9;
+font-size: 20px;
+text-align:right;
+position: relative;
+font-size: 20px;
+font-family: Serif;
+margin-top: 10px;
+height: 30px;
+}
+
+.table_style{
+border:0px;
+margin: 20px auto;
+
+}
+</style>
