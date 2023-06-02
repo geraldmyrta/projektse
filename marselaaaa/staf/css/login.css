@@ -1,0 +1,64 @@
+
+.mbajtese{
+position:relative;
+top:193px;
+left:600px;
+width:364px;
+height:240px;
+}
+
+.user{
+position:relative;
+font-size:18px;
+margin:4 auto;
+border-radius:5px;
+background:white;
+width:360px;
+height:25px;
+}
+
+.buton{
+position:relative;
+margin-top:25px;
+font-size: 20px;
+font-family: Serif;
+margin-left:280px;
+font-size:18px;
+background:white;
+width:70px;
+height:30px;
+border-radius:10px;
+}
+
+.label{ color: white;
+font-size: 20px;
+position: relative;
+font-size: 20px;
+font-family: Serif;
+margin-top: 4 auto;
+width: 360px;
+height: 10px;}
+
+.error_border{
+border: 2px solid red;
+}
+
+body{
+background-image:url("../images/backlog.png");
+background-size:1300px 700px;
+}
+
+.enter{
+text-decoration:none;
+font-size: 20px;
+font-family: Verdana;
+color: red;
+
+}
+
+.error{
+text-decoration:none;
+font-size: 20px;
+font-family: Verdana;
+color: white;
+

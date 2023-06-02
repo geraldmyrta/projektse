@@ -1,0 +1,75 @@
+
+<style>
+
+.profile_field{
+position:relative;
+font-size:18px;
+margin:10px ;
+border-radius:5px;
+background:#DFE3EE;
+width:360px;
+padding-left: 10px;
+height:30px;
+color:#0083A9;
+}
+
+.button_container{
+position: relative;
+float: right;
+right: 50px;
+top: 50px;
+width: 500px;
+height: 60px;
+
+}
+
+.buttons {
+position: relative;
+margin-left: 20px;
+top: 30px;
+left:90px;
+border-radius:5px;
+font-family: Verdana;
+font-weight:bold;
+font-size: 15px;
+color: white;
+width: 200px;
+height: 30px;
+background: #0083A9;
+}
+
+
+.label_field{
+position:relative;
+text-align:right;
+color: #0083A9;
+font-size: 20px;
+position: relative;
+font-size: 20px;
+font-family: Serif;
+margin-top: 10px;
+height: 30px;
+}
+
+.table_style{
+border:0px;
+margin: 20px auto;
+
+}
+
+
+.table_publikuesi_style{
+position:relative;
+border:0px;
+margin: 20px auto;
+top: 50px;
+
+}
+.table_category_style{
+position:relative;
+border:0px;
+margin: 20px auto;
+top: 50px;
+
+}
+</style>
